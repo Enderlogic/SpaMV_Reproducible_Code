@@ -1,0 +1,11 @@
+Dataset,method,jaccard 1,jaccard 2
+Mouse_Thymus,spaMultiVAE,0.030931184,0.036994655
+Mouse_Thymus,spaMultiVAE,0.027162284,0.029836015
+Mouse_Thymus,spaMultiVAE,0.02672782,0.030412665
+Mouse_Thymus,spaMultiVAE,0.028326176,0.031690103
+Mouse_Thymus,spaMultiVAE,0.028449873,0.029030099
+Mouse_Thymus,spaMultiVAE,0.027203992,0.029900535
+Mouse_Thymus,spaMultiVAE,0.029458656,0.036312169
+Mouse_Thymus,spaMultiVAE,0.030715837,0.037342549
+Mouse_Thymus,spaMultiVAE,0.030366759,0.037568937
+Mouse_Thymus,spaMultiVAE,0.028719863,0.030282486

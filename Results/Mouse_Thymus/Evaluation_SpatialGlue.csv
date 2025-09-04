@@ -1,0 +1,11 @@
+Dataset,method,jaccard 1,jaccard 2
+Mouse_Thymus,SpatialGlue,0.11696472,0.086760564
+Mouse_Thymus,SpatialGlue,0.095011831,0.103785731
+Mouse_Thymus,SpatialGlue,0.11195299,0.08700045
+Mouse_Thymus,SpatialGlue,0.10862023,0.092942968
+Mouse_Thymus,SpatialGlue,0.10785169,0.095564997
+Mouse_Thymus,SpatialGlue,0.095924158,0.103963246
+Mouse_Thymus,SpatialGlue,0.105066517,0.093325174
+Mouse_Thymus,SpatialGlue,0.097986656,0.101978957
+Mouse_Thymus,SpatialGlue,0.114366242,0.088885067
+Mouse_Thymus,SpatialGlue,0.112354819,0.094928891

@@ -1,0 +1,37 @@
+Dataset,method,jaccard 1,jaccard 2
+Mouse_Thymus,SpaMV,0.193374003,0.057750768
+Mouse_Thymus,SpaMV (Shared),0.06886891,0.064309431
+Mouse_Thymus,SpaMV (Transcriptomics related),0.210449036,0.038152156
+Mouse_Thymus,SpaMV (Proteomics related),0.054367998,0.145848363
+Mouse_Thymus,SpaMV,0.197419921,0.055035582
+Mouse_Thymus,SpaMV (Shared),0.059948087,0.061999092
+Mouse_Thymus,SpaMV (Transcriptomics related),0.214576361,0.037013016
+Mouse_Thymus,SpaMV (Proteomics related),0.047506734,0.133037231
+Mouse_Thymus,SpaMV,0.171838485,0.061131295
+Mouse_Thymus,SpaMV (Shared),0.054947004,0.056521042
+Mouse_Thymus,SpaMV (Transcriptomics related),0.190435757,0.038651087
+Mouse_Thymus,SpaMV (Proteomics related),0.045143855,0.129932744
+Mouse_Thymus,SpaMV,0.207837677,0.055976735
+Mouse_Thymus,SpaMV (Shared),0.077540799,0.058068601
+Mouse_Thymus,SpaMV (Transcriptomics related),0.225048107,0.036895881
+Mouse_Thymus,SpaMV (Proteomics related),0.061031196,0.130677146
+Mouse_Thymus,SpaMV,0.206216035,0.055145924
+Mouse_Thymus,SpaMV (Shared),0.068789057,0.06669397
+Mouse_Thymus,SpaMV (Transcriptomics related),0.220852663,0.037637967
+Mouse_Thymus,SpaMV (Proteomics related),0.055808451,0.14438848
+Mouse_Thymus,SpaMV,0.20164196,0.055672108
+Mouse_Thymus,SpaMV (Shared),0.066656897,0.068854803
+Mouse_Thymus,SpaMV (Transcriptomics related),0.217480077,0.037814362
+Mouse_Thymus,SpaMV (Proteomics related),0.052470199,0.140948499
+Mouse_Thymus,SpaMV,0.201666023,0.056594147
+Mouse_Thymus,SpaMV (Shared),0.062957734,0.065736013
+Mouse_Thymus,SpaMV (Transcriptomics related),0.218718407,0.037365416
+Mouse_Thymus,SpaMV (Proteomics related),0.050289744,0.144917022
+Mouse_Thymus,SpaMV,0.200153219,0.052900943
+Mouse_Thymus,SpaMV (Shared),0.070217715,0.057980745
+Mouse_Thymus,SpaMV (Transcriptomics related),0.216125262,0.035597611
+Mouse_Thymus,SpaMV (Proteomics related),0.057281178,0.124012121
+Mouse_Thymus,SpaMV,0.193790094,0.057341593
+Mouse_Thymus,SpaMV (Shared),0.067253348,0.060176585
+Mouse_Thymus,SpaMV (Transcriptomics related),0.210443134,0.038818621
+Mouse_Thymus,SpaMV (Proteomics related),0.055405734,0.125536455

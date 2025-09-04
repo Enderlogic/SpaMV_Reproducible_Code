@@ -1,0 +1,11 @@
+Dataset,method,jaccard 1,jaccard 2
+Mouse_Thymus,CellCharter,0.041008595,0.097245578
+Mouse_Thymus,CellCharter,0.041102398,0.123311312
+Mouse_Thymus,CellCharter,0.040886139,0.122990105
+Mouse_Thymus,CellCharter,0.042476675,0.11456575
+Mouse_Thymus,CellCharter,0.040453061,0.143058504
+Mouse_Thymus,CellCharter,0.040111479,0.137441178
+Mouse_Thymus,CellCharter,0.040499175,0.137836127
+Mouse_Thymus,CellCharter,0.040756306,0.132553906
+Mouse_Thymus,CellCharter,0.043446733,0.127054912
+Mouse_Thymus,CellCharter,0.040279597,0.14800891

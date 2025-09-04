@@ -1,0 +1,41 @@
+Dataset,method,ARI,MI,NMI,AMI,HOM,VME,jaccard 1,jaccard 2
+Mouse_Embryo,SpaMV,0.407173136,1.365844246,0.58844741,0.580583732,0.578765615,0.58844741,0.338350338,0.06392807
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.126110164,0.074765823
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.341805208,0.058494485
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.12884806,0.087255197
+Mouse_Embryo,SpaMV,0.422636402,1.417564007,0.600150577,0.592667149,0.600681452,0.600150577,0.337198427,0.0639683
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.126747175,0.073250923
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.34176779,0.058260907
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.129455492,0.086824832
+Mouse_Embryo,SpaMV,0.462969557,1.444071124,0.598517996,0.591189586,0.611913632,0.598517996,0.335345286,0.063839096
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.126468865,0.073598453
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.339036176,0.058479923
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.129369318,0.086564853
+Mouse_Embryo,SpaMV,0.431334347,1.411352262,0.596370239,0.588832754,0.598049274,0.596370239,0.332930193,0.063945081
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.124717265,0.074164166
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.337386703,0.058973125
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.128690598,0.08594595
+Mouse_Embryo,SpaMV,0.444913723,1.428207607,0.602299481,0.594886761,0.605191592,0.602299481,0.331669437,0.064074757
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.126398545,0.074416205
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.335503093,0.05894138
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.130223877,0.086855674
+Mouse_Embryo,SpaMV,0.47186136,1.419553106,0.600104338,0.592631334,0.601524317,0.600104338,0.334516098,0.063794057
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.125662732,0.073506745
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.337781471,0.058860678
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.128441882,0.085998651
+Mouse_Embryo,SpaMV,0.475559661,1.448382131,0.605795895,0.598520905,0.613740386,0.605795895,0.339134601,0.063848747
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.126213163,0.07385858
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.342513788,0.058820776
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.129292946,0.084446034
+Mouse_Embryo,SpaMV,0.459611622,1.396713425,0.595874827,0.588243464,0.591846184,0.595874827,0.333409335,0.063774311
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.126453361,0.074474648
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.337147709,0.059009846
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.129535057,0.085562171
+Mouse_Embryo,SpaMV,0.426782609,1.451656878,0.60657738,0.599326882,0.615128034,0.60657738,0.337510361,0.06390866
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.124093145,0.073739047
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.340853226,0.057873852
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.127163777,0.086060191
+Mouse_Embryo,SpaMV,0.467903493,1.383619115,0.591049362,0.583318014,0.586297574,0.591049362,0.334193383,0.064431546
+Mouse_Embryo,SpaMV (Shared),,,,,,,0.12637086,0.07362664
+Mouse_Embryo,SpaMV (Transcriptomics related),,,,,,,0.338241592,0.058916352
+Mouse_Embryo,SpaMV (Epigenomics related),,,,,,,0.129637736,0.086802593
